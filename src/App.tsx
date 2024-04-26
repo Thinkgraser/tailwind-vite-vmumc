@@ -38,6 +38,10 @@ import {
   EasterBreakfast,
   ChristmasEveService,
   ShroveTuesday,
+  Choir,
+  ChristmasGiving,
+  TrunkOrTreat,
+  Scholarships,
 } from "./pages";
 import { Banner, Navbar, Footer } from "./components";
 export default function App() {
@@ -87,6 +91,10 @@ export default function App() {
           <Route path="/ministryeasterbreakfast" element={<EasterBreakfast />}></Route>
           <Route path="/ministrychristmasevecandlelight" element={<ChristmasEveService />}></Route>
           <Route path="/ministryshrovetuesday" element={<ShroveTuesday />}></Route>
+          <Route path="/choir" element={<Choir />}></Route>
+          <Route path="/alternativechristmasgiving" element={<ChristmasGiving />}></Route>
+          <Route path="/trunkortreat" element={<TrunkOrTreat />}></Route>
+          <Route path="/scholarships" element={<Scholarships />}></Route>
         </Routes>
         <Footer />
       </div>

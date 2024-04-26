@@ -36,3 +36,7 @@ export { default as ChristmasCantata } from "./ChristmasCantata";
 export { default as EasterBreakfast} from "./EasterBreakfast";
 export { default as ChristmasEveService} from "./ChristmasEveService";
 export { default as ShroveTuesday} from "./ShroveTuesday";
+export { default as Choir} from "./Choir";
+export { default as ChristmasGiving} from "./ChristmasGiving";
+export { default as TrunkOrTreat} from "./TrunkOrTreat";
+export { default as Scholarships} from "./Scholarships";
