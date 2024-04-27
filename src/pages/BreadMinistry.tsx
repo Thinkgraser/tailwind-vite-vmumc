@@ -7,9 +7,9 @@ export default function BreadMinistry() {
   }, []);
   return (
     <>
-      <h1 className="text-center text-4xl font-medium pt-3 mt-10 mx-3">Bread Ministry</h1>
-
       <div className="mx-5 my-10 space-y-4">
+        <h1 className="text-4xl font-medium text-center">Bread Ministry</h1>
+        <br />
         <hr className=" border-black opacity-25" />
         <br />
         <p>
