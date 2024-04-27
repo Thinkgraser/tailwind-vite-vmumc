@@ -4,7 +4,7 @@ import { Jam1, Jam2, Jam3, Jam4, JamLogoBlack } from "../assets";
 
 export default function Jam() {
   useEffect(() => {
-    document.title = "Calendar - Van Meter United Methodist Church"; // Set default title
+    document.title = "JAM - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

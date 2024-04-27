@@ -4,7 +4,7 @@ import { Beth } from "../assets";
 
 export default function PastorsMessage() {
   useEffect(() => {
-    document.title = "Calendar - Van Meter United Methodist Church"; // Set default title
+    document.title = "Pastor's Message - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

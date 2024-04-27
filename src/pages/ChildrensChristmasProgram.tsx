@@ -3,7 +3,7 @@ import { ChildrensProgramImg1, ChildrensProgramImg2 } from "../assets";
 
 export default function ChildrensChristmasProgram() {
   useEffect(() => {
-    document.title = "Calendar - Van Meter United Methodist Church"; // Set default title
+    document.title = "Children's Christmas Program - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

@@ -4,7 +4,7 @@ import { Food, FoodPantryLogo } from "../assets";
 
 export default function FoodPantry() {
   useEffect(() => {
-    document.title = "Calendar - Van Meter United Methodist Church"; // Set default title
+    document.title = "A Mission Moment - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

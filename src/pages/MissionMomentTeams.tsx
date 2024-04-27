@@ -4,7 +4,7 @@ import { MissionsTeams } from "../assets";
 
 export default function MissionMomentTeams() {
   useEffect(() => {
-    document.title = "Ministries - Van Meter United Methodist Church"; // Set default title
+    document.title = "A Mission Moment - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

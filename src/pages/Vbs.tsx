@@ -4,7 +4,7 @@ import { VBS1, VBS2, VBS3, VBS4, VBS5, VBS6, VBS7, VBS8 } from "../assets";
 
 export default function Vbs() {
   useEffect(() => {
-    document.title = "Ministries - Van Meter United Methodist Church"; // Set default title
+    document.title = "VBS - Vacation Bible School - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

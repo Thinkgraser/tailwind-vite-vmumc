@@ -3,7 +3,7 @@ import { EasterEggHuntImg } from "../assets";
 
 export default function EasterEggHunt() {
   useEffect(() => {
-    document.title = "Calendar - Van Meter United Methodist Church"; // Set default title
+    document.title = "Easter Egg Hunt - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

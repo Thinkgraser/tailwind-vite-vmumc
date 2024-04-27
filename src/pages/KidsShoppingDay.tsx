@@ -3,7 +3,7 @@ import { KidsShoppingDayImg } from "../assets";
 
 export default function KidsShoppingDay() {
   useEffect(() => {
-    document.title = "Calendar - Van Meter United Methodist Church"; // Set default title
+    document.title = "Kids Shopping Day - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

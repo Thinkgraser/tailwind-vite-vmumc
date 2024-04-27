@@ -3,7 +3,7 @@ import { ChancelChoirImg, ChoirImg, PraiseImg1, PraiseImg2 } from "../assets";
 
 export default function Vbs() {
   useEffect(() => {
-    document.title = "Ministries - Van Meter United Methodist Church"; // Set default title
+    document.title = "Church Choir - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

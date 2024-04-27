@@ -3,7 +3,7 @@ import { BibleGivingImg } from "../assets";
 
 export default function BibleGiving() {
   useEffect(() => {
-    document.title = "Calendar - Van Meter United Methodist Church"; // Set default title
+    document.title = "Third Grade Bible Class - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

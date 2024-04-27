@@ -1,24 +1,10 @@
 import { useEffect } from "react";
 import { HomeSection } from "../components";
-import {
-  ScholarshipImage,
-  TT1,
-  TT10,
-  TT11,
-  TT2,
-  TT3,
-  TT4,
-  TT5,
-  TT6,
-  TT7,
-  TT8,
-  TT9,
-  TTGroup,
-} from "../assets";
+import { ScholarshipImage } from "../assets";
 
 export default function Scholarships() {
   useEffect(() => {
-    document.title = "Kids Care - Van Meter United Methodist Church"; // Set default title
+    document.title = "Church Scholarships - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

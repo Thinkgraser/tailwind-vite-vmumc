@@ -3,7 +3,7 @@ import { ConfirmationImg1, ConfirmationImg2, ConfirmationImg3 } from "../assets"
 
 export default function Confirmation() {
   useEffect(() => {
-    document.title = "Calendar - Van Meter United Methodist Church"; // Set default title
+    document.title = "Confirmation - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

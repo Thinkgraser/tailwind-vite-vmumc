@@ -3,7 +3,7 @@ import { BreadMinistryImage } from "../assets";
 
 export default function BreadMinistry() {
   useEffect(() => {
-    document.title = "Calendar - Van Meter United Methodist Church"; // Set default title
+    document.title = "Bread Ministry - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

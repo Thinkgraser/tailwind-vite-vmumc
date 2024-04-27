@@ -2,7 +2,7 @@ import { useEffect } from "react";
 
 export default function ChristmasGiving() {
   useEffect(() => {
-    document.title = "Kids Care - Van Meter United Methodist Church"; // Set default title
+    document.title = "Alternative Christmas Giving - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

@@ -4,7 +4,7 @@ import { Bag1, Bag2, Bag3, FamiliesForwardBidwell, FoodPantryLogo, Toothpaste } 
 
 export default function MissionMoment() {
   useEffect(() => {
-    document.title = "Ministries - Van Meter United Methodist Church"; // Set default title
+    document.title = "A Mission Moment - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

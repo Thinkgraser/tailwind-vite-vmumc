@@ -3,7 +3,7 @@ import { ShroveTuesdayImg } from "../assets";
 
 export default function ShroveTuesday() {
   useEffect(() => {
-    document.title = "Calendar - Van Meter United Methodist Church"; // Set default title
+    document.title = "Fat Tuesday Pancake Supper - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

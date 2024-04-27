@@ -3,7 +3,7 @@ import { YouthLogo, YouthWeb } from "../assets";
 
 export default function YouthGroup() {
   useEffect(() => {
-    document.title = "Calendar - Van Meter United Methodist Church"; // Set default title
+    document.title = "Youth Group - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

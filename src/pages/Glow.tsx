@@ -4,7 +4,7 @@ import { GlowLogo } from "../assets";
 
 export default function Glow() {
   useEffect(() => {
-    document.title = "Calendar - Van Meter United Methodist Church"; // Set default title
+    document.title = "GLOW - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>

@@ -3,7 +3,7 @@ import { ChristmasEveImg } from "../assets";
 
 export default function ChristmasEveService() {
   useEffect(() => {
-    document.title = "Calendar - Van Meter United Methodist Church"; // Set default title
+    document.title = "Christmas Eve Candlelight - Van Meter United Methodist Church"; // Set default title
   }, []);
   return (
     <>
